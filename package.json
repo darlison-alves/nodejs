@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Darlison Alves <darlinsonalves@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.0"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  }
 }
